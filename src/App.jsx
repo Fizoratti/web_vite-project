@@ -30,6 +30,9 @@ function App() {
       <p className="read-the-docs">
         Ana Paula Lopes Capela
       </p>
+      <p className="read-the-docs">
+        Ana Paulinha
+      </p>
     </div>
   )
 }
